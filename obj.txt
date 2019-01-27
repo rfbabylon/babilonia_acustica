@@ -1,0 +1,2 @@
+O objetivo deste repositório é o estudo de programação voltada para análise de sinais, extração de parâmetros acústicos e automatização de processos no dia a dia de trabalho na Babilonia Acústica Ltda. 
+
